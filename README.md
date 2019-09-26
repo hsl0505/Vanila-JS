@@ -1,2 +1,2 @@
-# Vanila JS
- 노마드코더 바닐라 JS 연습
+# Vanila-JS
+ 바닐라 JS 2번째강의
